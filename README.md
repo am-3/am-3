@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+- 📫 How to reach me: [hello.atharvam@gmail.com](hello.atharvam@gmail.com)
+
 <!--
 **am-3/am-3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
