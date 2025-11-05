@@ -42,7 +42,7 @@
 ## connect with me 
 - 📫 How to reach me: [hello.atharvam@gmail.com](hello.atharvam@gmail.com)
 
-<a href="https://linkedin.com/in/atharvamo3" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/kF9HMpz.png" width=40px height=40px title="source: imgur.com" /></a> &nbsp;  
+<a href="https://linkedin.com/in/atharvamor3" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/kF9HMpz.png" width=40px height=40px title="source: imgur.com" /></a> &nbsp;  
 <!-- <a href="https://twitter.com/dwivivivi" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/G7yTDHP.png" width=40px height=40px title="source: imgur.com" /></a> &nbsp;  <a href="https://polywork.com/dwvicy" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/EEo2g39.png" width=40px height=40px title="source: imgur.com" /></a> -->
 
 <br>![](https://komarev.com/ghpvc/?username=am-3&style=plastic&label=Counter) <br>
